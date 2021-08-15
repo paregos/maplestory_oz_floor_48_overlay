@@ -1,0 +1,6 @@
+/mvptest
+/*.png
+__pycache__
+
+!/YellowDot.png
+!/TestInput.png
